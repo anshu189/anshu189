@@ -30,4 +30,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshu189&show_icons=true&locale=en&layout=compact&text_color=daf7dc&title_color=ffffff&bg_color=080a18" alt="anshu189"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshu189&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=080a18" alt="anshu189"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anshu189&&show_icons=true&title_color=29dbd6&icon_color=bb2acf&text_color=29dbd6&bg_color=080a18" alt="anshu189"/>
