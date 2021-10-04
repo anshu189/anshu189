@@ -30,4 +30,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshu189&show_icons=true&locale=en&layout=compact&text_color=daf7dc&title_color=ffffff&bg_color=080a18" alt="anshu189"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshu189&&show_icons=true&title_color=29dbd6&icon_color=bb2acf&text_color=29dbd6&bg_color=080a18" alt="anshu189"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=anshu189&&show_icons=true&title_color=29dbd6&icon_color=bb2acf&text_color=29dbd6&bg_color=080a18" alt="anshu189"/> -->
+<img src="https://camo.githubusercontent.com/c582ed34ccae62352143fb0569358db54c2369351f5c6af9f760c3df3aec8f60/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e736875313839262673686f775f69636f6e733d74727565267469746c655f636f6c6f723d3239646264362669636f6e5f636f6c6f723d62623261636626746578745f636f6c6f723d3239646264362662675f636f6c6f723d303830613138"/> -->
