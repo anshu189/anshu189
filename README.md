@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu189&label=Profile%20views&color=0e75b6&style=flat" alt="anshu189" /> </p>
 
-<p align="left"> <a href="https://twitter.com/an5hu_saini" target="blank"><img src="https://img.shields.io/badge/Follow%20in/4n5hu-Linkedin-blue" alt="an5hu_saini" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/4n5hu" target="blank"><img src="https://img.shields.io/badge/Follow%20in/4n5hu-Linkedin-blue" alt="an5hu_saini" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/an5hu_saini" target="blank"><img src="https://img.shields.io/twitter/follow/an5hu_saini?logo=twitter&style=for-the-badge" alt="an5hu_saini" /></a> </p>
 
