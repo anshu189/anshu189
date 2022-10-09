@@ -45,4 +45,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=anshu189&theme=github_dark&show_icons=true"/>
 <h3 align="left">Achievements</h3><hr>
-<a href="https://holopin.io/@4n5hu"> <img src="https://holopin.io/api/user/board?user=4n5hu" alt="Hacktoberfest2k22" width="1000" height="333"/></a>
+<a href="https://holopin.io/@4n5hu"> <img src="https://holopin.io/api/user/board?user=4n5hu" alt="Hacktoberfest2k22"/></a>
