@@ -13,7 +13,7 @@
 
 - 🌱 Hands On: **Python, Web Development & C/C++**
 
-- ⚡ Fun fact: **I can't fix your Printer!**
+- ⚡ Fun fact: **I can fix your Printer!**
 <hr>
 
 <h3 align="left">Let's Connect</h3>
