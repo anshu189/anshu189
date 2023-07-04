@@ -9,9 +9,9 @@
 
 - 📫 How to reach me: **contactoanshu@gmail.com**
 
-- 👯 I’m looking to collaborate in: **New & exciting projects/ides**
+- 👯 I’m looking to collaborate in: **New & exciting projects/ideas**
 
-- 🌱 Hands On: **Python, Web Development & C/C++**
+- 🌱 Hands-On: **Python, Web Development & C/C++**
 
 - ⚡ Fun fact: **I can fix your Printer!**
 <hr>
