@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate in: **New & exciting projects/ideas**
 
-- 🌱 Hands-On: **Python, Web Development & C/C++**
+- 🌱 Hands-On: **Automation, Web Development, SAAS/PAAS/IAAS, HRMS**
 
 - ⚡ Fun fact: **I can fix your Printer!**
 <hr>
