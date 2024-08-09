@@ -5,15 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu189&label=Profile%20views&color=0e75b6&style=flat" alt="anshu189" /> </p>
 
 
-- 🔭 Currently working: **WebRTC & Into DevOps**
+- 🔭 Currently working: **SEO Practices**
 
 - 📫 How to reach me: **contactoanshu@gmail.com**
 
 - 👯 I’m looking to collaborate in: **New & exciting projects/ideas**
 
-- 🌱 Hands-On: **Automation, Web Development, SAAS/PAAS/IAAS, HRMS**
+- 🌱 Hands-On: **Automation, Web Development, SAAS/PAAS, HRMS/CMS**
 
-- ⚡ Fun fact: **I can fix your Printer!**
+- ⚡ Fun fact: **Technically Speaking, I can make you Popular ;)**
 <hr>
 
 <h3 align="left">Let's Connect</h3>
