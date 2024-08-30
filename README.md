@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate in: **New & exciting projects/ideas**
 
-- 🌱 Hands-On: **Automation, Web Development, SAAS/PAAS, HRMS/CMS**
+- 🌱 Hands-On: **Automation, Web Development, SAAS, HRMS/CMS**
 
 - ⚡ Fun fact: **Technically Speaking, I can make you Popular ;)**
 <hr>
