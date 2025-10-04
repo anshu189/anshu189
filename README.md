@@ -1,6 +1,4 @@
-<h1 align="center">Bonsoir Elliot.</h1>
-
-<h3 align="center">A passionate but freak programmer :D</h3>
+<h1 align="center">Building Empire.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu189&label=Profile%20views&color=0e75b6&style=flat" alt="anshu189" /> </p>
 
@@ -14,25 +12,6 @@
 - 🌱 Hands-On: **Automation, Web Development, SAAS, HRMS/CMS**
 
 - ⚡ Fun fact: **Technically Speaking, I can make you Popular ;)**
-<hr>
-
-<h3 align="left">Let's Connect</h3>
-
-<a href="https://www.linkedin.com/in/4n5hu" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white" alt="4n5hu"/>
-</a>
-
-<a href="https://www.instagram.com/anshu.ck" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=white" alt="Anshu"/>
-</a>
-
-<a href="https://twitter.com/an5hu_saini" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white" alt="4n5hu"/>
-</a>
-
-<a href="https://open.spotify.com/user/31zlqnmcohedscv5ski7wqemxksq?si=99948db2314f4168" target="_blank">
-  <img src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white" alt="Anshu"/>
-</a>
 
 <hr>
 
@@ -42,14 +21,10 @@
 
 <hr>
 <h3 align="left">Analytics</h3>
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshu189&show_icons=true&locale=en&layout=compact&text_color=daf7dc&title_color=58A5FE&bg_color=0D1117" alt="anshu189"/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=anshu189&theme=github_dark&show_icons=true"/>
-
-<h3 align="left">AppWrite</h3>
-<a href="https://cloud.appwrite.io/card/64f10ba15a20596a0849">
-	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=64f10ba15a20596a0849" alt="Appwrite Cloud Card" />
-</a>
+</div>
 <hr>
 <h3 align="left">Achievements</h3>
 <a href="https://holopin.io/@4n5hu" target="_blank"><img src="https://holopin.io/api/user/board?user=4n5hu" alt="Hacktoberfest2k22"/></a>
